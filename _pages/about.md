@@ -1,13 +1,15 @@
----
-layout: page
-title: About Me
-permalink: /about/
----
+# About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+<img src="images/me.jpg" alt="Anirudh Jain" style="zoom:50%;" />
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am a doctoral candidate at [Probabilistic Machine Learning](https://research.cs.aalto.fi/pml/) at [Aalto University](https://www.aalto.fi/en) advised by [Dr. Samuel Kaski](https://people.aalto.fi/samuel.kaski) and [Dr. Markus Heinonen](https://users.aalto.fi/~heinom10/).  I did my Integrated Masters of Technology in Mathematics and Computing from [Indian Institute of Technology(ISM), Dhanbad](https://www.iitism.ac.in).  My prime areas of interest are:
+- Bayesian Deep Learning
+- Generative models
+- Uncertainty in learning models
 
+Office: A335, [CS-building](https://www.aalto.fi/locations/computer-science-building), Aalto, Konemiehentie 2, 02150 Espoo, Finland
 
+Email: <anirudh.jain@aalto.fi>
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Phone No.: +358 505051571, +91 8969257536
+
